@@ -592,7 +592,7 @@ export default function Home() {
               </p>
             </div>
             <div className="md:justify-self-end">
-              <a href="mailto:info@villageconsulting.com" className="btn bg-white text-neutral-900 hover:opacity-90">
+              <a href="mailto:info@sapvillage.com" className="btn bg-white text-neutral-900 hover:opacity-90">
                 Email us
               </a>
             </div>
